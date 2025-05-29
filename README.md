@@ -1,3 +1,6 @@
+> ⚠️ This project is a fork of [LinkedInLearning](https://github.com/LinkedInLearning/advanced-python-projects-build-ai-applications-4465602-1).  
+> Credits to the original author for the base code.
+
 # Advanced Python Projects: Build AI Applications
 This is the repository for the LinkedIn Learning course `Advanced Python Projects: Build AI Applications`. The full course is available from [LinkedIn Learning][lil-course-url].
 
